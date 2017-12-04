@@ -12,6 +12,7 @@ type: MultipleChoiceExercise
 lang: sql
 xp: 50
 skills: 1
+key: 958f0d5489
 ```
 
 If you've used DataCamp to learn [R](https://www.datacamp.com/courses/free-introduction-to-r) or [Python](https://www.datacamp.com/courses/intro-to-python-for-data-science), you'll be familiar with the interface. For SQL, however, there are a few new features you should be aware of.
@@ -54,6 +55,7 @@ type: NormalExercise
 lang: sql
 xp: 100
 skills: 1
+key: 0fbc7199a0
 ```
 
 If you submit the code to the right, you'll see that you get two types of errors.
